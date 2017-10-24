@@ -1,1 +1,1 @@
-# MusteriYonetim
+# Spring Framework kullanarak yaptığım basit bir müşteri yönetim sistemi sisteme kullanıcı adı ve şifre kombinasyonu sağlanırsa giriş yapılıyor. Daha sonra müşteri ekle, müşteri listele ve müşteri düzenle formları bulunmakta. Bu işlemleri sağlamak içinde veritabanı gerektiği için MySQL veritabanı kullanıldı. 
